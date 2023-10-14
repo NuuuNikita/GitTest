@@ -1,2 +1,1 @@
-ssh-test
-new test
+Hello world!
